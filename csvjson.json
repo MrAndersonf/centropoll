@@ -1,0 +1,572 @@
+[
+  {
+    "ASSIST": "AUREO",
+    "ADJUVANTE": "ADJUVANTE",
+    "BASF": "BAYER",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "F KING",
+    "ADJUVANTE": "ADJUVANTE",
+    "BASF": "RANKING",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "HELPER DESSEK",
+    "ADJUVANTE": "ADJUVANTE",
+    "BASF": "COMPASS MINERAL",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "HELPER NEUTRUM",
+    "ADJUVANTE": "ADJUVANTE",
+    "BASF": "COMPASS MINERAL",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "IHAROL GOLD",
+    "ADJUVANTE": "ADJUVANTE",
+    "BASF": "IHARA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "RED",
+    "ADJUVANTE": "ADJUVANTE",
+    "BASF": "RANKING",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "RUMBA",
+    "ADJUVANTE": "ADJUVANTE",
+    "BASF": "ADAMA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "ZOOM",
+    "ADJUVANTE": "ADJUVANTE",
+    "BASF": "CROPFIELD",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "CALCÁRIO DOLOMITICO",
+    "ADJUVANTE": "CORRETIVO DE SOLO",
+    "BASF": "TRANSCAL",
+    "Lt": "ton"
+  },
+  {
+    "ASSIST": "GESSO",
+    "ADJUVANTE": "CORRETIVO DE SOLO",
+    "BASF": "AGRONELLI / NUTRION",
+    "Lt": "ton"
+  },
+  {
+    "ASSIST": "BURAK",
+    "ADJUVANTE": "FERTILIZANTE FOLIAR",
+    "BASF": "FASTAGRO",
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "KELLUS MN",
+    "ADJUVANTE": "FERTILIZANTE FOLIAR",
+    "BASF": "COMPASS MINERAL",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "09.46.00+MICRO",
+    "ADJUVANTE": "FERTILIZANTE FORMULADO",
+    "BASF": "ADM",
+    "Lt": "ton"
+  },
+  {
+    "ASSIST": "36.00.12",
+    "ADJUVANTE": "FERTILIZANTE FORMULADO",
+    "BASF": "MOSAIC",
+    "Lt": "ton"
+  },
+  {
+    "ASSIST": "ENXOFRE BETONITA",
+    "ADJUVANTE": "FERTILIZANTE FORMULADO",
+    "BASF": "FERTIMIG",
+    "Lt": "ton"
+  },
+  {
+    "ASSIST": "MAP -2ª S.",
+    "ADJUVANTE": "FERTILIZANTE FOSFATADO",
+    "BASF": "FERTIPAR",
+    "Lt": "ton"
+  },
+  {
+    "ASSIST": "SSP (LANÇO)",
+    "ADJUVANTE": "FERTILIZANTE FOSFATADO",
+    "BASF": "GALVANI",
+    "Lt": "ton"
+  },
+  {
+    "ASSIST": "KCL",
+    "ADJUVANTE": "FERTILIZANTE POTÁSSICO",
+    "BASF": "TOCANTINS",
+    "Lt": "ton"
+  },
+  {
+    "ASSIST": "UP! SEEDS",
+    "ADJUVANTE": "FERTILIZANTE TS",
+    "BASF": "COMPASS MINERAL",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "APROACH POWER",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": "CORTEVA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "ATIVUM",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": "BASF",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "AUTHORITY",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": "FMC",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "BRAVONIL 720",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": "SYNGENTA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "CLOROTALONIL SC",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": 0,
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "CONTROLLER",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": "CORTEVA",
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "CRONNOS",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": "ADAMA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "CYPRESS",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": "SYNGENTA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "DIFERE",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": "OXIQUÍMICA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "FEZAN GOLD",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": "SIPCAM",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "FOX",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": "BAYER",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "FUSÃO",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": "IHARA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "PRIORI.XTRA",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": "SYNGENTA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "TEBUCONAZOLE",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": 0,
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "UNIZEB GOLD",
+    "ADJUVANTE": "FUNGICIDA",
+    "BASF": "UPL",
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "METARRIL",
+    "ADJUVANTE": "FUNGICIDA MICROBIOLOGICO TS",
+    "BASF": "KOPPERT",
+    "Lt": "Dose"
+  },
+  {
+    "ASSIST": "VITAVAX THIRAN",
+    "ADJUVANTE": "FUNGICIDA TS",
+    "BASF": "UPL",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "ATRAZINA",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": 0,
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "AURORA",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": "FMC",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "DUAL GOLD",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": "SYNGENTA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "FINALE",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": "BASF",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "GLIFOSATO 360",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": 0,
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "METSULFURON",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": 0,
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "RAJER",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": "CROPCHEM",
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "REGLONE",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": "SYNGENTA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "ROUNDUP WG",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": "BAYER / AMAGGI",
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "SANSON EVO",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": "UPL",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "SPIDER",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": "CORTEVA",
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "STONE",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": "FMC",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "SUMYZIN",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": "SUMITOMO",
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "U-46",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": "SUMITOMO",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "VERDICT MAX",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": "CORTEVA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "ZAPHIR",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": "UPL",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "CLETODIM",
+    "ADJUVANTE": "HERBICIDA",
+    "BASF": 0,
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "INOCULANTE LÍQUIDO",
+    "ADJUVANTE": "INOCULANTE",
+    "BASF": "AGROCOLHEITA",
+    "Lt": "Dose"
+  },
+  {
+    "ASSIST": "CARNADINE",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "SUMITOMO",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "CURYON",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "SYNGENTA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "ENGEO PLENO",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "SYNGENTA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "EPINGLE 100",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "SUMITOMO",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "EXALT",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "CORTEVA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "EXPEDITION",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "CORTEVA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "HERO",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "FMC",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "IMIDACLOPRID 480 SC",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "NORTOX",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "KLORPAN",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "SUMITOMO",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "LANNATE BR",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "CORTEVA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "NOMOLT",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "BASF",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "PERITO",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "UPL",
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "PREMIO",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "FMC",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "SPERTO",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "UPL",
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "TALISMAN",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "FMC",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "TRIGGER",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": 0,
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "WILD",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "ALBAUGH",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "ZEUS",
+    "ADJUVANTE": "INSETICIDA",
+    "BASF": "IHARA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "ARMIGEN",
+    "ADJUVANTE": "INSETICIDA BIOLÓGICO",
+    "BASF": "AGBITECH",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "CRYSOGEN",
+    "ADJUVANTE": "INSETICIDA BIOLÓGICO",
+    "BASF": "AGBITECH",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "VIRCONTROL",
+    "ADJUVANTE": "INSETICIDA BIOLÓGICO",
+    "BASF": "SIMBIOSE",
+    "Lt": "KG"
+  },
+  {
+    "ASSIST": "CRUISER",
+    "ADJUVANTE": "INSETICIDA TS",
+    "BASF": "SYNGENTA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "FORTENZA",
+    "ADJUVANTE": "INSETICIDA TS",
+    "BASF": "SYNGENTA",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "IMIDA TS",
+    "ADJUVANTE": "INSETICIDA TS",
+    "BASF": "ROTAM",
+    "Lt": "Lt"
+  },
+  {
+    "ASSIST": "BIOLÓGICO MULT.",
+    "ADJUVANTE": "NEMATICIDA MICROBIOLOGICO",
+    "BASF": 0,
+    "Lt": "Dose"
+  },
+  {
+    "ASSIST": "PRESENCE",
+    "ADJUVANTE": "NEMATICIDA MICROBIOLOGICO",
+    "BASF": "FMC",
+    "Lt": "Dose"
+  },
+  {
+    "ASSIST": "BRAQ RUZIZIENSES",
+    "ADJUVANTE": "SEMENTE BRAQUIÁRIA",
+    "BASF": "AGROCOLHEITA",
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "BRS PIATÃ",
+    "ADJUVANTE": "SEMENTE BRAQUIÁRIA",
+    "BASF": 0,
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "BRS ZURI",
+    "ADJUVANTE": "SEMENTE BRAQUIÁRIA",
+    "BASF": 0,
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "ADR 500",
+    "ADJUVANTE": "SEMENTE MILHETO",
+    "BASF": "FAZENDA",
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "DKB 360 PRO3",
+    "ADJUVANTE": "SEMENTE MILHO",
+    "BASF": 0,
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "P3707 VYH",
+    "ADJUVANTE": "SEMENTE MILHO",
+    "BASF": 0,
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "P3898",
+    "ADJUVANTE": "SEMENTE MILHO",
+    "BASF": 0,
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "BMX BONUS IPRO",
+    "ADJUVANTE": "SEMENTE SOJA",
+    "BASF": "SEM. TROPICAL",
+    "Lt": "mm"
+  },
+  {
+    "ASSIST": "BMX DESAFIO RR",
+    "ADJUVANTE": "SEMENTE SOJA",
+    "BASF": 0,
+    "Lt": "mm"
+  },
+  {
+    "ASSIST": "BMX FOCO IPRO",
+    "ADJUVANTE": "SEMENTE SOJA",
+    "BASF": "SEM. TROPICAL",
+    "Lt": "mm"
+  },
+  {
+    "ASSIST": "BMX FOCO IPRO -AJ",
+    "ADJUVANTE": "SEMENTE SOJA",
+    "BASF": "SEM. GIRASSOL",
+    "Lt": "mm"
+  },
+  {
+    "ASSIST": "BMX OLIMPO IPRO",
+    "ADJUVANTE": "SEMENTE SOJA",
+    "BASF": "SEM. TROPICAL",
+    "Lt": "mm"
+  },
+  {
+    "ASSIST": "DM 75i74 IPRO",
+    "ADJUVANTE": "SEMENTE SOJA",
+    "BASF": "UNIGGEL",
+    "Lt": "mm"
+  },
+  {
+    "ASSIST": "NS 7670 RR",
+    "ADJUVANTE": "SEMENTE SOJA",
+    "BASF": "NIDERA",
+    "Lt": "kg"
+  },
+  {
+    "ASSIST": "TMG 2381 IPRO",
+    "ADJUVANTE": "SEMENTE SOJA",
+    "BASF": "SEM. TROPICAL",
+    "Lt": "mm"
+  }
+]
