@@ -1,3 +1,4 @@
+let items = []
 const file = [
     {
         "nome": "AUREO",
@@ -725,6 +726,16 @@ function quantidades() {
     document.getElementById('total').value = soma.toLocaleString('pt-br')
 }
 
+function safraPlanejamento() {
+    const display = document.getElementById('safra-planejamento');
+    if (document.getElementById('safra-periodo').value !== "") {
+        display.textContent = `Safra ${document.getElementById('safra-periodo').value}`
+        return
+    }
+    display.textContent = "Selecione uma Safra"
+
+}
+
 function includeInput() {
     const inputValue = {
         grupo: document.getElementById('safra-grupo').value,
@@ -741,35 +752,57 @@ function includeInput() {
         },
         total: document.getElementById('total').value
     }
-    console.log(inputValue.grupo.toLowerCase())
-    const tableTarget = document.getElementById(`table-planejamento-${inputValue.grupo.toLowerCase()}`)
-    console.log(`table-planejamento-${inputValue.grupo.toLowerCase()}`)
-    let newRow = tableTarget.insertRow(tableTarget.rows.length);
+    items.push(inputValue)
+    items.sort(function (a, b) {
+        
+            if (a.grupo > b.grupo) {
+                console.log("lkjlk")
+                return 1
+            }
+            if (a.grupo < b.grupo) {
+                console.log("lkjlk")
+                return -1
+            }
+            return 0
+        
+       
 
-    let c = `<tr>
-    <th scope="row">1</th>
-    <td>${inputValue.insumo}</td>
-    <td>${inputValue.unidade}</td>
-    <td>${inputValue.quantidade.soja}</td>
-    <td>${inputValue.quantidade.milho}</td>
-    <td>${inputValue.quantidade.milheto}</td>
-    <td>${inputValue.quantidade.algodao}</td>
-    <td>${inputValue.quantidade.sorgo}</td>
-    <td>${inputValue.quantidade.crotalaria}</td>
-    <td>${inputValue.quantidade.brachiaria}</td>
-    <td>${inputValue.total}</td>
-    <td>
-        <div>
-            <button class="btn">
-                <img src="./icons/edit.svg" />
-            </button>
-            <button class="btn">
-                <img src="./icons/delete.svg" />
-            </button>
-        </div>
-    </td>
-</tr>`
-    newRow.innerHTML = c
+
+    })
+    console.log(items)
+    const tableTarget = document.getElementById(`table-planejamento`)
+    tableTarget.innerHTML = ""
+    items.map((item, i) => {
+
+        let newRow = tableTarget.insertRow(tableTarget.rows.length);
+
+        let c = `<tr>
+        <th scope="row">${i + 1}</th>
+        <td>${item.grupo}</td>
+        <td>${item.insumo}</td>
+        <td>${item.unidade}</td>
+        <td>${item.quantidade.soja}</td>
+        <td>${item.quantidade.milho}</td>
+        <td>${item.quantidade.milheto}</td>
+        <td>${item.quantidade.algodao}</td>
+        <td>${item.quantidade.sorgo}</td>
+        <td>${item.quantidade.crotalaria}</td>
+        <td>${item.quantidade.brachiaria}</td>
+        <td>${item.total}</td>
+        <td>
+            <div>
+                <button class="btn">
+                    <img src="./icons/edit.svg" />
+                </button>
+                <button class="btn">
+                    <img src="./icons/delete.svg" />
+                </button>
+            </div>
+        </td>
+    </tr>`
+        newRow.innerHTML = c
+    })
+
 }
 
 
