@@ -753,29 +753,19 @@ function includeInput() {
         total: document.getElementById('total').value
     }
     items.push(inputValue)
-    items.sort(function (a, b) {
-        
-            if (a.grupo > b.grupo) {
-                console.log("lkjlk")
-                return 1
-            }
-            if (a.grupo < b.grupo) {
-                console.log("lkjlk")
-                return -1
-            }
-            return 0
-        
-       
-
-
+    items.sort(function (a, b) {        
+        if (a.grupo > b.grupo) {
+            return 1
+        }
+        if (a.grupo < b.grupo) {
+            return -1
+        }
+        return 0
     })
-    console.log(items)
     const tableTarget = document.getElementById(`table-planejamento`)
     tableTarget.innerHTML = ""
     items.map((item, i) => {
-
         let newRow = tableTarget.insertRow(tableTarget.rows.length);
-
         let c = `<tr>
         <th scope="row">${i + 1}</th>
         <td>${item.grupo}</td>
@@ -802,6 +792,7 @@ function includeInput() {
     </tr>`
         newRow.innerHTML = c
     })
+    document.getElementById('safra-grupo').focus();
 
 }
 
